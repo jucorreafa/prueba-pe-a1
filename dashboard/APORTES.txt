@@ -3,3 +3,4 @@
 # Ejemplo:
 # Ana Pérez · Coordinadora · subí la carpeta dashboard y pedí la publicación
 
+Juan Prueba · Verificador · probé el tablero en ventana privada
