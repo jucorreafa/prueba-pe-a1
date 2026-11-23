@@ -1,8 +1,8 @@
 # Escribe tu texto al final de cada línea, justo después de los dos puntos (:).
 # Haz clic a la derecha de TITULO: (en esa misma línea) y escribe. No borres nada.
 # Cada texto va en una sola línea. Las líneas que empiezan con # no se leen.
-TITULO:
+TITULO: Observatorio Inmobiliario Quito
 SUBTITULO: El robot busca, limpia y analiza los datos. Esta página los muestra con filtros.
-FUENTE:
-PREGUNTA:
-LECTURA:
+FUENTE: Fuente: anuncios de venta, capturados el 11 de noviembre de 2026
+PREGUNTA: ¿En qué sector de Quito conviene comprar una casa?
+LECTURA: Los sectores con menor precio por metro cuadrado ofrecen mejor valor. Conviene visitar primero Quitumbe y Conocoto.
