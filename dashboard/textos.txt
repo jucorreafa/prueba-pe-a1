@@ -1,7 +1,8 @@
-# Escribe cada texto después de los dos puntos (:). No borres el nombre de la izquierda.
-# Una sola línea por texto. Las líneas que empiezan con # no se leen.
-TITULO: Observatorio de mi grupo
+# Escribe tu texto al final de cada línea, justo después de los dos puntos (:).
+# Haz clic a la derecha de TITULO: (en esa misma línea) y escribe. No borres nada.
+# Cada texto va en una sola línea. Las líneas que empiezan con # no se leen.
+TITULO:
 SUBTITULO: El robot busca, limpia y analiza los datos. Esta página los muestra con filtros.
-FUENTE: Fuente: escribe aquí de dónde vienen tus datos y la fecha
-PREGUNTA: Escribe aquí la pregunta de negocio que responde tu tablero
-LECTURA: Escribe aquí 2 o 3 frases: qué dicen los números y qué decisión sugieren
+FUENTE:
+PREGUNTA:
+LECTURA:
